@@ -1,11 +1,10 @@
 /* Setting generali pagina */
 html {
-  width: 100%;
-  min-width: 780px;
-  max-width: 1920px;
+  width: 1920px;
 }
+
 body {
-  height: 100%;
+  height: 90%;
   margin: 0;
   padding: 0;
   background-color: #e9edee;
@@ -176,6 +175,7 @@ h5 {
 .colorescuro img {
   display: block;
   width: 9em;
-  padding: 2.5em 100vh;
+  /* margin: 0 auto; */
+  padding: 4em 100vh;
 }
 /* / Footer */
